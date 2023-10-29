@@ -1,0 +1,14 @@
+/home/abrar/MyLexer/bin/Debug/net7.0/MyLexer
+/home/abrar/MyLexer/bin/Debug/net7.0/MyLexer.deps.json
+/home/abrar/MyLexer/bin/Debug/net7.0/MyLexer.runtimeconfig.json
+/home/abrar/MyLexer/bin/Debug/net7.0/MyLexer.dll
+/home/abrar/MyLexer/bin/Debug/net7.0/MyLexer.pdb
+/home/abrar/MyLexer/obj/Debug/net7.0/MyLexer.GeneratedMSBuildEditorConfig.editorconfig
+/home/abrar/MyLexer/obj/Debug/net7.0/MyLexer.AssemblyInfoInputs.cache
+/home/abrar/MyLexer/obj/Debug/net7.0/MyLexer.AssemblyInfo.cs
+/home/abrar/MyLexer/obj/Debug/net7.0/MyLexer.csproj.CoreCompileInputs.cache
+/home/abrar/MyLexer/obj/Debug/net7.0/MyLexer.dll
+/home/abrar/MyLexer/obj/Debug/net7.0/refint/MyLexer.dll
+/home/abrar/MyLexer/obj/Debug/net7.0/MyLexer.pdb
+/home/abrar/MyLexer/obj/Debug/net7.0/MyLexer.genruntimeconfig.cache
+/home/abrar/MyLexer/obj/Debug/net7.0/ref/MyLexer.dll
