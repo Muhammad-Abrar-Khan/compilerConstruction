@@ -1,0 +1,24 @@
+function main() {
+
+	public private protected == *= $ ! || \\
+    ~initialization of variables
+	var x = 10;
+	var y = 20;
+	var x -= 1;
+
+	if(x >= Y)
+	{
+		Dyno("X is Greater than Y")
+	}
+
+	var z = x + y;
+
+	i = 0;
+	~loop
+	while(i < z){
+		var e = z + x;
+		Dyno(e);
+		i--;
+	}
+}
+$

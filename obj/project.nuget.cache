@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FbnOlQz8ADKKskK/KA1H9dcpwi2m4ECue5erL4UWkJZ1KDNUDcF2Ucw9sgEDFw+TGz+PZdlIi0dZbraCN8mcXA==",
+  "dgSpecHash": "z+8k/nGFnp2rnxT4kneFX2i/8qF5FAk5rL5Zcff4ruT5JfbF7anqNjaXP1M8SC3mZe3siQthnPIaA2QVZXICPw==",
   "success": true,
-  "projectFilePath": "/home/abrar/MyLexer/MyLexer.csproj",
+  "projectFilePath": "/home/abrar/MyLexicalAnalyzer/MyLexicalAnalyzer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v7.0",
+    "name": ".NETCoreApp,Version=v8.0",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
-    ".NETCoreApp,Version=v7.0": {
-      "MyLexer/1.0.0": {
+    ".NETCoreApp,Version=v8.0": {
+      "MyLexicalAnalyzer/1.0.0": {
         "runtime": {
-          "MyLexer.dll": {}
+          "MyLexicalAnalyzer.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "MyLexer/1.0.0": {
+    "MyLexicalAnalyzer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

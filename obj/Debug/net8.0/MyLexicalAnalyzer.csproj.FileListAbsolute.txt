@@ -1,0 +1,14 @@
+/home/abrar/MyLexicalAnalyzer/bin/Debug/net8.0/MyLexicalAnalyzer
+/home/abrar/MyLexicalAnalyzer/bin/Debug/net8.0/MyLexicalAnalyzer.deps.json
+/home/abrar/MyLexicalAnalyzer/bin/Debug/net8.0/MyLexicalAnalyzer.runtimeconfig.json
+/home/abrar/MyLexicalAnalyzer/bin/Debug/net8.0/MyLexicalAnalyzer.dll
+/home/abrar/MyLexicalAnalyzer/bin/Debug/net8.0/MyLexicalAnalyzer.pdb
+/home/abrar/MyLexicalAnalyzer/obj/Debug/net8.0/MyLexicalAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+/home/abrar/MyLexicalAnalyzer/obj/Debug/net8.0/MyLexicalAnalyzer.AssemblyInfoInputs.cache
+/home/abrar/MyLexicalAnalyzer/obj/Debug/net8.0/MyLexicalAnalyzer.AssemblyInfo.cs
+/home/abrar/MyLexicalAnalyzer/obj/Debug/net8.0/MyLexicalAnalyzer.csproj.CoreCompileInputs.cache
+/home/abrar/MyLexicalAnalyzer/obj/Debug/net8.0/MyLexicalAnalyzer.dll
+/home/abrar/MyLexicalAnalyzer/obj/Debug/net8.0/refint/MyLexicalAnalyzer.dll
+/home/abrar/MyLexicalAnalyzer/obj/Debug/net8.0/MyLexicalAnalyzer.pdb
+/home/abrar/MyLexicalAnalyzer/obj/Debug/net8.0/MyLexicalAnalyzer.genruntimeconfig.cache
+/home/abrar/MyLexicalAnalyzer/obj/Debug/net8.0/ref/MyLexicalAnalyzer.dll
